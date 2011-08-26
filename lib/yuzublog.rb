@@ -1,6 +1,6 @@
 require 'rails'
 require 'acts-as-taggable-on'
-require 'rmagick'
+require 'RMagick'
 require 'omniauth'
 require 'devise'
 require 'cancan'
